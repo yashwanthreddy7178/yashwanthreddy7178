@@ -1,5 +1,12 @@
-# 💫 About Me:
-👨‍💻 Hi, I'm Yashwanth Reddy!<br>🚀 Data Scientist & AI Engineer crafting intelligent solutions<br>🎓 MS Data Science student @NJIT | 🧠 AI Enthusiast | 📊 Data Storyteller<br><br>🌱 Currently exploring<br>    🧠 Advanced LLM fine-tuning techniques<br><br>    🌐 MLOps & production deployment strategies<br><br>    🔄 CI/CD pipelines for ML projects<br><br>⚡ Fun Fact<br>My cricket prediction models are so accurate (90%) that my friends banned me from making predictions during live matches! 🏆
+# 👋 Hi, Welcome to My GitHub Profile!:
+🌟 I'm Yashwanth Reddy, a passionate Data Scientist & AI Engineer who loves transforming ideas into impactful projects.!<br>🚀 Data Scientist & AI Engineer crafting intelligent solutions<br>🎓 MS Data Science student @NJIT | 🧠 AI Enthusiast | 📊 Data Storyteller<be>
+
+<br>🌱 Currently exploring<br> 
+- 🧠 Advanced LLM fine-tuning techniques<br><br>
+- 🌐 MLOps & production deployment strategies<br><br>
+- 🔄 CI/CD pipelines for ML projects<br>
+<br>
+⚡ Fun Fact<br>My cricket prediction models are so accurate (90%) that my friends banned me from making predictions during live matches! 🏆
 
 
 ## 🌐 Socials:
